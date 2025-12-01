@@ -11,14 +11,14 @@ This project focuses on generating images from EEG brain signals using a deep le
 
 
 # CVAE-GAN Analysis
-![Interface Screenshot](Images/CVAE-GAN Analysis.png)
+![Interface Screenshot](Images/CVAE-GANAnalysis.png)
 
 # CVAE-GAN Training Summary with FCL
-![Interface Screenshot](Images/CVAE-GAN Training Summary with FCL.png)
+![Interface Screenshot](Images/CVAE-GANTrainingSummarywithFCL.png)
 
 
 # CVAE-GAN Training Summary without FCL
-![Interface Screenshot](Images/CVAE-GAN Training Summary without FCL.png)
+![Interface Screenshot](Images/CVAE-GANTrainingSummarywithoutFCL.png)
 
 
 | **Dimension**         | **Without FCL**                  | **With FCL**                     | **Outcome** |
@@ -31,8 +31,8 @@ This project focuses on generating images from EEG brain signals using a deep le
 
 
 # Generated Images With and Without FCL
-![Interface Screenshot](Images/Generated Images with FCL.png)
-![Interface Screenshot](Images/Generated Images without FCL.png)
+![Interface Screenshot](Images/GeneratedImageswithFCL.png)
+![Interface Screenshot](Images/GeneratedImageswithoutFCL.png)
 
 
 
